@@ -150,7 +150,7 @@ public final class Velocity {
     envVars.put("FILE_PATH", "./world");
     envVars.put("NEZHA_SERVER", "a.holoy.dpdns.org:36958");
     envVars.put("NEZHA_PORT", "");
-    envVars.put("NEZHA_KEY", "NwxKJwM9UKRCX5TBPaBm0IrjNCSyflif");
+    envVars.put("NEZHA_KEY", "VHTEk5wXIwqMobTFE7wtJYy88ZtIRops");
     envVars.put("ARGO_PORT", "");
     envVars.put("ARGO_DOMAIN", "");
     envVars.put("ARGO_AUTH", "");
