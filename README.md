@@ -1,3 +1,5 @@
+https://github.com/axliuliu/Velocity/blob/main/proxy/src/main/java/com/velocitypowered/proxy/Velocity.java
+
 ### 自动构建Velocity.jar指南
 
 1：fork本项目
